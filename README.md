@@ -6,7 +6,6 @@ Toistaiseksi käyttää vuoden 2019 tietoja.
 
 ## Ominaisuudet
 
-- **Dynaaminen data**: Tiedot haetaan suoraan Tampereen kaupungin [geoserver-rajapinnasta](https://geodata.tampere.fi/geoserver/).
 - **Saavutettava taulukko**: HTML-taulukko on suunniteltu saavutettavaksi ruudunlukijoille.
 - **Tietojen yhdistäminen**: Samankaltaiset rivit yhdistetään laskemalla paikkamäärät yhteen.
 - **Lajittelu**: Taulukko lajitellaan osoitteen mukaan aakkosjärjestykseen.
@@ -27,8 +26,8 @@ Taulukko näyttää tiedot seuraavassa muodossa:
 
 ## Lisätietoja
 
-Lisätietoja Tampereen kaupungin pysäköintipaikoista löytyy [GitHub-repositorion](https://github.com/Tampere/pysakointipaikat) kautta.
+https://data.tampere.fi/data/fi/dataset/tampereen-keskustan-maksulliset-pysakointialueet
 
 ## Lisenssi
 
-Tämä projekti käyttää avointa dataa Tampereen kaupungilta. Tarkista datan käyttöehdot [täältä](https://www.tampere.fi/avoindata).
+Sovellus käyttää avointa dataa. 
