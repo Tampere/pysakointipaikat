@@ -6,7 +6,7 @@ Tiedot haetaan Tampereen kaupungin avoimesta rajapinnasta, suodattaen ja yhdist�
 ## Ominaisuudet
 
 - **Saavutettava taulukko**: HTML-taulukko on suunniteltu saavutettavaksi ruudunlukijoille.
-- **Dynaaminen data**: Tiedot haetaan suoraan Tampereen kaupungin [geoserver-rajapinnasta](https://geodata.tampere.fi/geoserver/).
+- **Dynaaminen data**: Tiedot haetaan suoraan Tampereen kaupungin geoserver-rajapinnasta.
 - **Tietojen yhdist채minen**: Samankaltaiset rivit yhdistet채채n laskemalla paikkam채채r채t yhteen.
 - **Lajittelu**: Taulukko lajitellaan osoitteen mukaan aakkosj채rjestykseen.
 
