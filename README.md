@@ -2,7 +2,6 @@
 
 Tämä sovellus näyttää Tampereen pysäköintipaikat saavutettavassa HTML-taulukossa. 
 Tiedot haetaan Tampereen kaupungin avoimesta rajapinnasta, suodattaen ja yhdistäen samankaltaiset rivit.
-Toistaiseksi käyttää vuoden 2019 tietoja.
 
 ## Ominaisuudet
 
